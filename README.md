@@ -2,7 +2,7 @@
 
 An automated powered pill dispenser designed to ensure that medication is taken exactly when needed. It features a web-based configuration panel, GSM text messaging, email notifications, and physical alarms.
 
-This project marks my very first journey into the world of IoT, soldering, and custom PCB design. It was a massive learning experience—from designing the circuitry to writing the C++ logic, and piecing together the hardware.
+This project marks my very first journey into the world of IoT, soldering, and custom PCB design. It was a massive learning experience - from designing the circuitry to writing the C++ logic, and piecing together the hardware.
 
 ## The Problem It Solves
 
